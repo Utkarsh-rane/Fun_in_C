@@ -1,2 +1,2 @@
-# Fun_in_C
+# Fun_with_C
 #guess the number game 
