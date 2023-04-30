@@ -1,2 +1,2 @@
-    printf("enter a number=");
-scanf("%d",&n);
+ //       printf("\n enter the value for num=");
+    //    scanf("%d" ,&c);
